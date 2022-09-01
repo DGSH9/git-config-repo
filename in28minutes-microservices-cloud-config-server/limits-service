@@ -1,0 +1,4 @@
+server.port=8081
+spring.cloud.config.enabled=false
+limits-service.minimum=4
+limits-service.maximum=996
